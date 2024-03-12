@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\andres pc\\documents\\unreal projects\\respositories\\towerdefenders\\towerdefenders\\towerdefenders\\source\\towerdefenders\\towerdefenders.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\andres pc\\documents\\unreal projects\\respositories\\towerdefenders\\towerdefenders\\towerdefenders\\intermediate\\build\\win64\\x64\\towerdefenderseditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\andres pc\\documents\\unreal projects\\respositories\\towerdefenders\\towerdefenders\\towerdefenders\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\towerdefenders\\definitions.towerdefenders.h",
+            "c:\\users\\andres pc\\documents\\unreal projects\\respositories\\towerdefenders\\towerdefenders\\towerdefenders\\source\\towerdefenders\\towerdefenders.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

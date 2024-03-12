@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TowerDefenders.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Andres PC\Documents\Unreal Projects\Respositories\TowerDefenders\TowerDefenders\TowerDefenders\Intermediate\Build\Win64\x64\TowerDefendersEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\Andres PC\Documents\Unreal Projects\Respositories\TowerDefenders\TowerDefenders\TowerDefenders\Intermediate\Build\Win64\x64\UnrealEditor\Development\TowerDefenders\TowerDefenders.cpp.obj"
+"C:\Users\Andres PC\Documents\Unreal Projects\Respositories\TowerDefenders\TowerDefenders\TowerDefenders\Intermediate\Build\Win64\x64\UnrealEditor\Development\TowerDefenders\Default.rc2.res"
+/OUT:"C:\Users\Andres PC\Documents\Unreal Projects\Respositories\TowerDefenders\TowerDefenders\TowerDefenders\Intermediate\Build\Win64\x64\UnrealEditor\Development\TowerDefenders\UnrealEditor-TowerDefenders.lib"

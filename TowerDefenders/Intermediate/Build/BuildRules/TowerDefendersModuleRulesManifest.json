@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Andres PC\\Documents\\Unreal Projects\\Respositories\\TowerDefenders\\TowerDefenders\\TowerDefenders\\Source\\TowerDefenders\\TowerDefenders.Build.cs",
+		"C:\\Users\\Andres PC\\Documents\\Unreal Projects\\Respositories\\TowerDefenders\\TowerDefenders\\TowerDefenders\\Source\\TowerDefenders.Target.cs",
+		"C:\\Users\\Andres PC\\Documents\\Unreal Projects\\Respositories\\TowerDefenders\\TowerDefenders\\TowerDefenders\\Source\\TowerDefendersEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
